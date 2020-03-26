@@ -16,10 +16,6 @@ locations:
   - venue: "Online"
     address: "https://carpentries.zoom.us/j/FIXME"
 
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
